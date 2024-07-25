@@ -2,3 +2,28 @@ baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'RME-Archives'
 theme = "hugo-book"
+
+
+defaultContentLanguage = 'en'
+defaultContentLanguageInSubdir = true
+[languages]
+  [languages.bn]
+    contentDir = 'content/bn'
+    disabled = false
+    languageCode = 'bn'
+    languageDirection = 'ltr'
+    languageName = 'Bengali'
+    # title = 'banglay documentation'
+    weight = 1
+    # [languages.bn.params]
+    #   subtitle = 'Referenz, Tutorials und Erklärungen'
+  [languages.en]
+    contentDir = 'content/en'
+    disabled = false
+    languageCode = 'en'
+    languageDirection = 'ltr'
+    languageName = 'English'
+    # title = 'Project Documentation'
+    weight = 2
+    # [languages.en.params]
+    #   subtitle = 'Reference, Tutorials, and Explanations'
