@@ -2,7 +2,10 @@ baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'RME-Archives'
 theme = "hugo-book"
+uglyURLs = true 
 
+[markup.goldmark.renderer]
+  unsafe = true # Allow HTML in md files
 
 defaultContentLanguage = 'en'
 defaultContentLanguageInSubdir = true
