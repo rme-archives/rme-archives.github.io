@@ -1,12 +1,16 @@
 ---
 weight: 1
 bookFlatSection: false
-title: "২০২৪ কোটা আন্দোলন"
+title: "2024 Quota Movement"
 Date: 2024-07-11
 ---
 
-# কোটা আন্দোলন er Introduction
+# Inception
 
-Why and how did this movement start?
+Students start protesting against a High Court ruling early July that rolled back the quota reforms made following the 2018 movement.
 
-this section contains the preface to the escelation.
+[[ need more details]]
+
+On the 14th of July PM Sheikh Hasina condemns the protest, equating students with "Rajakars".
+
+[[ needs detailed sources, links, videos ]]

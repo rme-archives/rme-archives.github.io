@@ -4,14 +4,12 @@ type: docs
 Date: 2024-07-18
 ---
 
-২০১৫ সালে প্রতিষ্ঠিত হওয়ার পর থেকে আমাদের অংশগ্রহণ করা সকল আন্দোলন লিপিবদ্ধ করার উদ্দেশ্যে এই ওয়েবসাইট টি বানানো। As we write this, the 2024 Quota movement is ongoing. It is the first one that we will record and document.
+২০১৫ সালে প্রতিষ্ঠিত হওয়ার পর তগেকে আমাদের অংশগ্রহণ করা সকল আন্দোলন লিপিবদ্ধ করার উদ্দেশ্যে এই ওয়েবসাইট টি বানানো। আজকে যখন আমরা এটি লিখছি, দেশে ছাত্র আন্দোলন তখনো চলমান। আর এটিই প্রথম আন্দোলন যেটা আমরা এভাবে লিপিবদ্ধ করে রাখছি।
 
-The focus of this website is not to provide real time updates. This is simply to document the narrative as we ourselves bear witness. So that, when the country is no longer run by fascists and it's people emmancipated once again, those committing the crimes of our times may be held accountable. Whenever that time comes.
-
-
+প্রতি মুহুর্তের খবরের আপডেট রাখার কোন ওয়েবসাইট এটি নয়। বরং এই সাইটে আমরা ধরে রাখতে চাই এই আন্দোলন কে কেন্দ্র করে প্রতিদিন আমাদের সামনে ঘটে যাওয়া সব ঘটনার। যেন ভবিষ্যতে কোন একদিন যখন এই দেশ স্বৈরাচারমুক্ত হবে, মানুষ ফিরে পাবে নিজের স্বাধীনতা, তখন এই সময়ের অপরাধীদের কে দেয়া যায় তাদের কৃতকর্মের উপযুক্ত জবাব। সেদিন যখন ই আসুক না কেন।
 
 
-{{< hint info >}}
-**To RME Students**  
-Do not share this website on any socials until we have ensured proper anonymity and security. We don't want this site to go down before we get a chance to start it.
+{{< hint info >}}  
+**রমেদু শিক্ষার্থীদের জন্য**
+এই সাইট এখনি কোন সামাজিক যোগাযোগ মাধ্যমে প্রকাশের দরকার নেই। তার আগে আমাদের নিশ্চিত করা প্রয়োজন যথার্থ গোপনীয়তা এবং নিরাপত্তা। কারণ, আমরা অবশ্যই চাইবনা, সাইটটি ঠিকভাবে প্রকাশিত হওয়ার আগেই, হারিয়ে যাক।
 {{< /hint >}}
